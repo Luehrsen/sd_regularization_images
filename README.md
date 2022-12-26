@@ -11,10 +11,23 @@ Your feedback in form of issues is much appreciated!
 
 ### "photo of a woman" - regular
 
+The standard version, as Stable Diffusion 1.5 would output it without any modification. This is what Shivams colab would generate with a "photo of a woman" class.
+
 * Folder: [photo_of_a_woman-regular](./../../tree/main/photo_of_a_woman-regular)
 * Count: 1500
 * Prompt: "photo of a woman"
 * Negative Prompt: none
+* Model: Stable Diffusion v1.5 pruned (a9263745)
+* Steps: 20, Sampler: Euler, CFG scale: 7, Size: 512x512, Model hash: a9263745
+
+### "photo of a woman" - enhanced
+
+Same as the regular "photo of a woman", but enhanced with a negative prompt that filters out undesired results in the set.
+
+* Folder: [photo_of_a_woman-enhanced](./../../tree/main/photo_of_a_woman-enhanced)
+* Count: 1500
+* Prompt: "photo of a woman"
+* Negative Prompt: "illustration, painting, drawing, lowres, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, ((((ugly)))), (((duplicate))), ((morbid)), ((mutilated)), [out of frame], extra fingers, mutated hands, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((bad anatomy)), (((bad proportions))), ((extra limbs)), cloned face, (((disfigured))), extra limbs, gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))"
 * Model: Stable Diffusion v1.5 pruned (a9263745)
 * Steps: 20, Sampler: Euler, CFG scale: 7, Size: 512x512, Model hash: a9263745
 
