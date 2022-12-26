@@ -11,10 +11,10 @@ Your feedback in form of issues is much appreciated!
 
 ### "photo of a woman" - regular
 
-Folder: photo_of_a_woman-regular
-Prompt: "photo of a woman"
-Negative Prompt: none
-Steps: 20, Sampler: Euler, CFG scale: 7, Size: 512x512, Model hash: a9263745, Batch size: 2, Batch pos: 1
+* Folder: photo_of_a_woman-regular
+* Prompt: "photo of a woman"
+* Negative Prompt: none
+* Steps: 20, Sampler: Euler, CFG scale: 7, Size: 512x512, Model hash: a9263745, Batch size: 2, Batch pos: 1
 
 ## Usage
 To use the regularization images in this repository, simply download the images and specify their location when running the stable diffusion or Dreambooth processes.
