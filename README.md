@@ -11,7 +11,7 @@ Your feedback in form of issues is much appreciated!
 
 ### "photo of a woman" - regular
 
-* Folder: photo_of_a_woman-regular
+* Folder: [photo_of_a_woman-regular](./tree/main/photo_of_a_woman-regular)
 * Prompt: "photo of a woman"
 * Negative Prompt: none
 * Steps: 20, Sampler: Euler, CFG scale: 7, Size: 512x512, Model hash: a9263745
