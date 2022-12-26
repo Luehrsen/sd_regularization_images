@@ -22,7 +22,7 @@ The standard version, as Stable Diffusion 1.5 would output it without any modifi
 
 ### "photo of a woman" - enhanced
 
-Same as the regular "photo of a woman", but enhanced with a negative prompt that filters out undesired results in the set.
+Same as the regular "photo of a woman", but enhanced with a negative prompt that filters out some "non-photo" results in the set.
 
 * Folder: [photo_of_a_woman-enhanced](./../../tree/main/photo_of_a_woman-enhanced)
 * Count: 1500
